@@ -2,7 +2,7 @@
 
 ## Usage
 
-1. Run below camera.py script to colledct data:
+1. Run below camera.py script to collect data:
 
 ```python camera.py```
 
